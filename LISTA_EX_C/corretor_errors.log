@@ -1,0 +1,5 @@
+2025-01-26 20:18:33,394 - ERROR - Falha de autenticação na API
+2025-01-26 20:19:44,008 - ERROR - Falha de autenticação na API
+2025-01-26 20:19:45,536 - ERROR - Falha de autenticação na API
+2025-01-26 20:27:10,495 - ERROR - Erro ao carregar o modelo: unicamp-dl/ptt5-base-grammar-correction is not a local folder and is not a valid model identifier listed on 'https://huggingface.co/models'
+If this is a private repository, make sure to pass a token having permission to this repo either by logging in with `huggingface-cli login` or by passing `token=<your_token>`
